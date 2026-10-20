@@ -1,0 +1,6 @@
+chess
+zstandard
+duckdb
+pandas
+scikit-learn
+matplotlib
