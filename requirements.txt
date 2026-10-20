@@ -1,6 +1,6 @@
-chess
-zstandard
-duckdb
-pandas
-scikit-learn
-matplotlib
+chess==1.11.2
+duckdb==1.5.6
+matplotlib==3.11.2
+pandas==3.0.6
+scikit-learn==1.9.1
+zstandard==0.25.0
